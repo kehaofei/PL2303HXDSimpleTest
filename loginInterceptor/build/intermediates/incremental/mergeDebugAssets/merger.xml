@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\XCCD\.android\build-cache\222b9749e067f90759bb87c6a422eb0b17acb790\output\assets"/></dataSet><dataSet config="main"><source path="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\src\main\assets"/><source path="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\src\debug\assets"/></dataSet></merger>

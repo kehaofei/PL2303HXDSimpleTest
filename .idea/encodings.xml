@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/asyncUploadDemo/src/main/java/com/zmb/updemo/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fXXCPower/src/main/java/com/mining/app/zxing/camera/CameraConfigurationManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/iO_CTRL/src/main/java/com/example/io_ctrl/BluetoothLeService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iO_CTRL/src/main/java/com/example/io_ctrl/DeviceControlActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iO_CTRL/src/main/java/com/example/io_ctrl/DeviceScanActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/testTimePicker/src/main/java/com/timepicker/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testTimePicker/src/main/java/com/wheel/ImageTextButton.java" charset="UTF-8" />
+  </component>
+</project>

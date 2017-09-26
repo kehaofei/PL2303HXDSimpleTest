@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4db1249ecefb9b8641e6fff32103ff2296f0dbfa">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_45fea181c78c34e2d5d930cdb8ea4df34fadc46f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\XCCD\.android\build-cache\222b9749e067f90759bb87c6a422eb0b17acb790\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb3b219409ae1346b2ac885cfbbdeda8374106cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_aa16b3cf885393ef74ba8407c65bcf20627dd05b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bb1b42adb37be2494e196aee8df6271bfa6b1e15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\XCCD\.android\build-cache\222b9749e067f90759bb87c6a422eb0b17acb790\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_d3dc9247f5f039decdddb585611ab8d8370bee3d\classes.dex" />
+    </item>
+
+</items>

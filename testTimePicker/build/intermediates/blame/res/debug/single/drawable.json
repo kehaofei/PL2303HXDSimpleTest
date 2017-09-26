@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\testTimePicker\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_bg.xml",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\testTimePicker\\src\\main\\res\\drawable\\layout_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\testTimePicker\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\testTimePicker\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\testTimePicker\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\testTimePicker\\src\\main\\res\\drawable\\wheel_bg.xml"
+    }
+]

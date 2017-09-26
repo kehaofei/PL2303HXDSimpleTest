@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    }
+]

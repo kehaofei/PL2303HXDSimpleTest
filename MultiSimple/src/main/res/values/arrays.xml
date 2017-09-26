@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="BaudRateList">
+        <item >75</item>
+        <item >300</item>
+        <item >1200</item>
+        <item >2400</item>
+        <item >4800</item>
+        <item >9600</item>
+        <item >14400</item>
+        <item >19200</item>
+        <item >38400</item>
+        <item >57600</item>
+        <item >115200</item>        
+        <item >614400</item>
+        <item >921600</item>
+        <item >1228800</item>     
+        <item >3000000</item>   
+        <item >6000000</item>   
+    </string-array>
+    
+</resources>

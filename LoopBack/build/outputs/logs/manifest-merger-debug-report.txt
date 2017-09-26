@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:3:7-33
+		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\XCCD\.android\build-cache\55e179c9d6e100cd7c1f5465c7b824ea4722b9d0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\XCCD\.android\build-cache\0886532fe388d39a8972e6248ba9cdf6dc57f5e1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\XCCD\.android\build-cache\9ee8dd911cdaabc3334f40e05b447fba876f390b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\XCCD\.android\build-cache\af80f0a5b35440d91721806b01128927e59c5694\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\XCCD\.android\build-cache\1f62a9f6902789e5f9ecb067a17b267695904647\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\XCCD\.android\build-cache\d61208153fd839e881f0f737628a4157c9658d12\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\XCCD\.android\build-cache\0dc01d66b068d07db1eae892a7643050c91b4af3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\XCCD\.android\build-cache\ab9a5cce889960617c2925949ee37cf47d1acb31\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\XCCD\.android\build-cache\aca4a3497e76b2cfa674c905b1e6927f893e9753\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\XCCD\.android\build-cache\55e179c9d6e100cd7c1f5465c7b824ea4722b9d0\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:6:15-41
+		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
+uses-feature#android.hardware.usb.accessory
+ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:8:19-64
+application
+ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:10:5-33:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\XCCD\.android\build-cache\55e179c9d6e100cd7c1f5465c7b824ea4722b9d0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\XCCD\.android\build-cache\0886532fe388d39a8972e6248ba9cdf6dc57f5e1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\XCCD\.android\build-cache\9ee8dd911cdaabc3334f40e05b447fba876f390b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\XCCD\.android\build-cache\af80f0a5b35440d91721806b01128927e59c5694\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\XCCD\.android\build-cache\1f62a9f6902789e5f9ecb067a17b267695904647\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\XCCD\.android\build-cache\d61208153fd839e881f0f737628a4157c9658d12\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\XCCD\.android\build-cache\0dc01d66b068d07db1eae892a7643050c91b4af3\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\XCCD\.android\build-cache\ab9a5cce889960617c2925949ee37cf47d1acb31\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\XCCD\.android\build-cache\aca4a3497e76b2cfa674c905b1e6927f893e9753\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:10:48-80
+	android:icon
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:10:18-47
+activity#com.UARTLoopback.UARTLoopbackActivity
+ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:11:9-31:20
+	android:screenOrientation
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:14:19-56
+	android:label
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:13:19-51
+	android:name
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:11:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:16:7-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:18:15-62
+intent-filter#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:22:12-24:29
+action#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:23:16-91
+	android:name
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:23:24-89
+meta-data#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:26:13-29:25
+	android:resource
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:28:14-54
+	android:name
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:27:14-79

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">slidingmenu_demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="today">今日</string>
+	<string name="lastList">往期列表</string>
+	<string name="discussMeetting">讨论集会</string>
+	<string name="myFavorities">我的收藏</string>
+	<string name="myComments">我的评论</string>
+	<string name="settings">设置</string>
+</resources>

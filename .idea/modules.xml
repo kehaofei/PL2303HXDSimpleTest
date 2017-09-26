@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LoopBack/LoopBack.iml" filepath="$PROJECT_DIR$/LoopBack/LoopBack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapApiDemo/MapApiDemo.iml" filepath="$PROJECT_DIR$/MapApiDemo/MapApiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiSimple/MultiSimple.iml" filepath="$PROJECT_DIR$/MultiSimple/MultiSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PL2303HXDSimpleTest.iml" filepath="$PROJECT_DIR$/PL2303HXDSimpleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PermissionManager-master/PermissionManager-master.iml" filepath="$PROJECT_DIR$/PermissionManager-master/PermissionManager-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PopupWindowDialog/PopupWindowDialog.iml" filepath="$PROJECT_DIR$/PopupWindowDialog/PopupWindowDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PopupwindowDemo/PopupwindowDemo.iml" filepath="$PROJECT_DIR$/PopupwindowDemo/PopupwindowDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpinnerDemo/SpinnerDemo.iml" filepath="$PROJECT_DIR$/SpinnerDemo/SpinnerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_usb/android_usb.iml" filepath="$PROJECT_DIR$/android_usb/android_usb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asyncUploadDemo/asyncUploadDemo.iml" filepath="$PROJECT_DIR$/asyncUploadDemo/asyncUploadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetoothDemo/bluetoothDemo.iml" filepath="$PROJECT_DIR$/bluetoothDemo/bluetoothDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fXXCPower/fXXCPower.iml" filepath="$PROJECT_DIR$/fXXCPower/fXXCPower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment/fragment.iml" filepath="$PROJECT_DIR$/fragment/fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iO_CTRL/iO_CTRL.iml" filepath="$PROJECT_DIR$/iO_CTRL/iO_CTRL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewchoose/listviewchoose.iml" filepath="$PROJECT_DIR$/listviewchoose/listviewchoose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/litepal/litepal.iml" filepath="$PROJECT_DIR$/litepal/litepal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginInterceptor/loginInterceptor.iml" filepath="$PROJECT_DIR$/loginInterceptor/loginInterceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu_demo/slidingmenu_demo.iml" filepath="$PROJECT_DIR$/slidingmenu_demo/slidingmenu_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu_library/slidingmenu_library.iml" filepath="$PROJECT_DIR$/slidingmenu_library/slidingmenu_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmap/testmap.iml" filepath="$PROJECT_DIR$/testmap/testmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc_application/xc_application.iml" filepath="$PROJECT_DIR$/xc_application/xc_application.iml" />
+    </modules>
+  </component>
+</project>

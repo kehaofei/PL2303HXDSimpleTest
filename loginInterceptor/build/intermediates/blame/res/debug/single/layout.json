@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\loginInterceptor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\loginInterceptor\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\loginInterceptor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_third.xml",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\loginInterceptor\\src\\main\\res\\layout\\activity_third.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\loginInterceptor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\loginInterceptor\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\loginInterceptor\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\loginInterceptor\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]

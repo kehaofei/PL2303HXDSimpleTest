@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PLMultiSimpleTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="open_button">Open</string>
+    <string name="close_button">Close</string>
+    <string name="write_button">Write</string>
+    <string name="write_hint">Please input sent data</string>
+    <string name="serial_number">SN</string>
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">FXXCPower</string>
+     <string name="scan_text">请输入二维码</string>
+
+</resources>

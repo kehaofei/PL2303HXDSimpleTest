@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/allbg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/activity_pointmeter_getalarm_linearlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/rouned_outer"
+        android:gravity="center" >
+
+        <TextView
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="5dp"
+            android:text="SCNID:" />
+
+        <EditText
+            android:id="@+id/activity_pointmeter_concentrator_id_edittext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@color/whitesmoke"
+            android:maxLength="16"
+            android:maxLines="1"
+            android:minWidth="150dp"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/activity_pointmeter_concentrator_id_button"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:background="@drawable/scan"
+            android:singleLine="true" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/activity_pointmeter_meter_id_linearlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/activity_pointmeter_getalarm_linearlayout"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/rouned_outer"
+        android:gravity="center" >
+
+        <TextView
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="5dp"
+            android:text="METER:" />
+
+        <EditText
+            android:id="@+id/activity_pointmeter_meter_id_edittext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@color/whitesmoke"
+            android:maxLength="16"
+            android:maxLines="1"
+            android:minWidth="150dp"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/activity_pointmeter_meter_id_button"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="right"
+            android:background="@drawable/scan"
+            android:singleLine="true" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/activity_pointmeter_starttime_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/activity_pointmeter_meter_id_linearlayout"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/rouned_outer"
+        android:gravity="center" >
+
+        <TextView
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="5dp"
+            android:text="START:" />
+
+        <EditText
+            android:id="@+id/activity_pointmeter_starttime_edittext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@color/whitesmoke"
+            android:maxLength="16"
+            android:maxLines="1"
+            android:minWidth="150dp"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/activity_pointmeter_starttime_button"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="right"
+            android:background="@drawable/time"
+            android:singleLine="true" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/activity_pointmeter_endtime_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/activity_pointmeter_starttime_layout"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/rouned_outer"
+        android:gravity="center" >
+
+        <TextView
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="5dp"
+            android:text="E N D:" />
+
+        <EditText
+            android:id="@+id/activity_pointmeter_endtime_edittext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@color/whitesmoke"
+            android:maxLength="16"
+            android:maxLines="1"
+            android:minWidth="150dp"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/activity_pointmeter_endtime_button"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_gravity="right"
+            android:background="@drawable/time"
+            android:singleLine="true" />
+    </LinearLayout>
+
+    <RadioGroup
+        android:id="@+id/activity_pointmeter_radiogroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/activity_pointmeter_endtime_layout"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/rouned_outer"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/activity_pointmeter_on"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:checked="true"
+            android:text="ON" />
+
+        <RadioButton
+            android:id="@+id/activity_pointmeter_off"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="OFF" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:id="@+id/activity_pointmeter_version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/activity_pointmeter_radiogroup"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Version :" />
+
+        <TextView
+            android:id="@+id/activity_pointmeter_version_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/activity_pointmeter_submitgroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/activity_pointmeter_getversion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:text="VERSION" />
+
+        <Button
+            android:id="@+id/activity_pointmeter_getalarm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:text="GET" />
+
+        <Button
+            android:id="@+id/activity_pointmeter_setpointmeter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:text="SET" />
+    </LinearLayout>
+
+</RelativeLayout>

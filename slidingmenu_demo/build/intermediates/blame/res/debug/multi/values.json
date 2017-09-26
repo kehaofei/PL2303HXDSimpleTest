@@ -1,0 +1,353 @@
+[
+    {
+        "outputFile": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 44,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 41,
+                    "endOffset": 137
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 41,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1250,
+                    "endColumn": 57,
+                    "endOffset": 1303
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1308,
+                    "endColumn": 55,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 43,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 43,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1408,
+                    "endColumn": 49,
+                    "endOffset": 1453
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 49,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1458,
+                    "endColumn": 42,
+                    "endOffset": 1496
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_library\\build\\intermediates\\bundles\\default\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 42,
+                        "endOffset": 1046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1501,
+                    "endColumn": 52,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1554,
+                    "endColumn": 53,
+                    "endOffset": 1603
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 53,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1608,
+                    "endColumn": 48,
+                    "endOffset": 1652
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 291,
+                        "endColumn": 45,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1657,
+                    "endColumn": 52,
+                    "endOffset": 1705
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1710,
+                    "endColumn": 41,
+                    "endOffset": 1747
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 251,
+                        "endColumn": 38,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1752,
+                    "endColumn": 43,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 382,
+                        "endColumn": 40,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endColumn": 45,
+                    "endOffset": 1837
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 338,
+                        "endColumn": 42,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1842,
+                    "endColumn": 39,
+                    "endOffset": 1877
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 424,
+                        "endColumn": 36,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1882,
+                    "endColumn": 36,
+                    "endOffset": 1914
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 216,
+                        "endColumn": 33,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1919,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2205
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2210,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2365
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\slidingmenu_demo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

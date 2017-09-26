@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\asyncUploadDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\asyncUploadDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\asyncUploadDemo\\build\\intermediates\\res\\merged\\debug\\layout\\filebrowser_uploading.xml",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\asyncUploadDemo\\src\\main\\res\\layout\\filebrowser_uploading.xml"
+    }
+]

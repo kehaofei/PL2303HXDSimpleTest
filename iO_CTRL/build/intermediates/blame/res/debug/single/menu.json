@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\iO_CTRL\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\iO_CTRL\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\iO_CTRL\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\iO_CTRL\\src\\main\\res\\menu\\gatt_services.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pl2303multilib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MultiSimple/libs/pl2303multilib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

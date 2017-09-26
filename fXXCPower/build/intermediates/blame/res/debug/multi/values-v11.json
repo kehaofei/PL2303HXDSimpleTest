@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\fXXCPower\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\fXXCPower\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 335
+                    }
+                }
+            }
+        ]
+    }
+]

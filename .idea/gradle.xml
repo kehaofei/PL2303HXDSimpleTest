@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/LoopBack" />
+            <option value="$PROJECT_DIR$/Map" />
+            <option value="$PROJECT_DIR$/MapApiDemo" />
+            <option value="$PROJECT_DIR$/MultiSimple" />
+            <option value="$PROJECT_DIR$/PermissionManager-master" />
+            <option value="$PROJECT_DIR$/PopupWindowDialog" />
+            <option value="$PROJECT_DIR$/PopupwindowDemo" />
+            <option value="$PROJECT_DIR$/SpinnerDemo" />
+            <option value="$PROJECT_DIR$/android_usb" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asyncUploadDemo" />
+            <option value="$PROJECT_DIR$/bluetoothDemo" />
+            <option value="$PROJECT_DIR$/fXXCPower" />
+            <option value="$PROJECT_DIR$/fragment" />
+            <option value="$PROJECT_DIR$/iO_CTRL" />
+            <option value="$PROJECT_DIR$/listviewchoose" />
+            <option value="$PROJECT_DIR$/litepal" />
+            <option value="$PROJECT_DIR$/loginInterceptor" />
+            <option value="$PROJECT_DIR$/sample" />
+            <option value="$PROJECT_DIR$/slidingmenu_demo" />
+            <option value="$PROJECT_DIR$/slidingmenu_library" />
+            <option value="$PROJECT_DIR$/testmap" />
+            <option value="$PROJECT_DIR$/xc_application" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

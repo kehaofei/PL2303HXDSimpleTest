@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+
+
+
+    <string name="open_storage_permit">请打开存储权限</string>
+    <string name="open_permit">请打开权限</string>
+    <string name="open_bluetooth_permit">请打开蓝牙权限</string>
+    <string name="open_location_permit">请打开位置权限</string>
+</resources>
