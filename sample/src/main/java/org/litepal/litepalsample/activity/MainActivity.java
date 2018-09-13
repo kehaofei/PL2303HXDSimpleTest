@@ -22,7 +22,6 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-import org.litepal.litepalsample.R;
 
 public class MainActivity extends Activity implements OnClickListener {
 

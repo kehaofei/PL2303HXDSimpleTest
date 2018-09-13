@@ -1,17 +1,9 @@
 package com.zmb.updemo;
 
-import java.io.BufferedReader;
-import java.io.DataOutputStream;
-import java.io.FileInputStream;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
-
-import android.os.AsyncTask;
-import android.os.Bundle;
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.os.AsyncTask;
+import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.View;
@@ -19,6 +11,14 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+
+import java.io.BufferedReader;
+import java.io.DataOutputStream;
+import java.io.FileInputStream;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
 
 public class MainActivity extends Activity {
 	private Button mBtnUpload;
@@ -32,19 +32,19 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		mBtnUpload = (Button)findViewById(R.id.btn_upload);
 		mBtnUpload.setOnClickListener(new OnClickListener() {
-			
+
 			@Override
 			public void onClick(View v) {
-				//ÕâÀï»»³ÉÏëÒªÉÏ´«µÄÎÄ¼şÂ·¾¶
+//				è¿™é‡Œæ¢æˆæƒ³è¦ä¸Šä¼ çš„æ–‡ä»¶è·¯å¾„
 				String filePath = "/mnt/sdcard/DCIM/fairytail_falls.jpg";
-				//ÕâÀïµÄIPÒª»»³ÉÄã·şÎñÆ÷µÄIP,²»¿ÉÊ¹ÓÃlocalhost,·ñÔò½«±»Ä£ÄâÆ÷ÈÏÎªÊÇ×ÔÉí
+				//è¿™é‡Œçš„IPè¦æ¢æˆä½ æœåŠ¡å™¨çš„IP,ä¸å¯ä½¿ç”¨localhost,å¦åˆ™å°†è¢«æ¨¡æ‹Ÿå™¨è®¤ä¸ºæ˜¯è‡ªèº«
 				String url = "http://10.203.6.5:8080/UploadServlet/servlet/UploadServlet";
-				//ÕâÀïµÄviewÊÇÉÏ´«½ø¶ÈµÄµ¯¿ò
+				//è¿™é‡Œçš„viewæ˜¯ä¸Šä¼ è¿›åº¦çš„å¼¹æ¡†
 				View upView = getLayoutInflater().inflate(R.layout.filebrowser_uploading, null);
 				mPgBar = (ProgressBar)upView.findViewById(R.id.pb_filebrowser_uploading);
 				mTvProgress = (TextView)upView.findViewById(R.id.tv_filebrowser_uploading);
-				new AlertDialog.Builder(MainActivity.this).setTitle("ÉÏ´«½ø¶È").setView(upView).create().show();
-				//AsyncTaskµÄÊµÀı
+				new AlertDialog.Builder(MainActivity.this).setTitle("ä¸Šä¼ è¿›åº¦").setView(upView).create().show();
+				//AsyncTaskçš„å®ä¾‹
 				mTask = new MyTask();
 				mTask.execute(filePath, url);
 			}
@@ -55,7 +55,7 @@ public class MainActivity extends Activity {
 
 		@Override
 		protected void onPostExecute(String result) {
-			mTvProgress.setText(result);	
+			mTvProgress.setText(result);
 		}
 
 		@Override
@@ -94,14 +94,14 @@ public class MainActivity extends Activity {
 						.getOutputStream());
 				dos.writeBytes(twoHyphens + boundary + end);
 				dos.writeBytes("Content-Disposition: form-data; name=\"file\"; filename=\""
-								+ filePath.substring(filePath.lastIndexOf("/") + 1)
-								+ "\"" + end);
+						+ filePath.substring(filePath.lastIndexOf("/") + 1)
+						+ "\"" + end);
 				dos.writeBytes(end);
 
 				FileInputStream fis = new FileInputStream(filePath);
 				long total = fis.available();
 				String totalstr = String.valueOf(total);
-				Log.d("ÎÄ¼ş´óĞ¡", totalstr);
+				Log.d("æ–‡ä»¶å¤§å°", totalstr);
 				byte[] buffer = new byte[8192]; // 8k
 				int count = 0;
 				int length = 0;
@@ -109,9 +109,9 @@ public class MainActivity extends Activity {
 					dos.write(buffer, 0, count);
 					length += count;
 					publishProgress((int) ((length / (float) total) * 100));
-					//ÎªÁËÑİÊ¾½ø¶È,ĞİÃß500ºÁÃë
+					//ä¸ºäº†æ¼”ç¤ºè¿›åº¦,ä¼‘çœ 500æ¯«ç§’
 					//Thread.sleep(500);
-				}			
+				}
 				fis.close();
 				dos.writeBytes(end);
 				dos.writeBytes(twoHyphens + boundary + twoHyphens + end);
@@ -124,14 +124,14 @@ public class MainActivity extends Activity {
 				String result = br.readLine();
 				dos.close();
 				is.close();
-				return "ÉÏ´«³É¹¦";
-		}catch (Exception e) {
-			e.printStackTrace();
-			return "ÉÏ´«Ê§°Ü";
-		}	
+				return "ä¸Šä¼ æˆåŠŸ";
+			}catch (Exception e) {
+				e.printStackTrace();
+				return "ä¸Šä¼ å¤±è´¥";
+			}
+		}
 	}
-}
-	
+
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.

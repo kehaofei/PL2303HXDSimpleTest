@@ -2,49 +2,1224 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
         optimize="true"
-        revision="25.0.0"
-        sha1="4db1249ecefb9b8641e6fff32103ff2296f0dbfa">
-        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_45fea181c78c34e2d5d930cdb8ea4df34fadc46f\classes.dex" />
+        revision="26.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PopupWindowDialog\build\intermediates\transforms\preDex\release\4.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\XCCD\.android\build-cache\222b9749e067f90759bb87c6a422eb0b17acb790\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\b0db2e79087632035793a952df0eb753\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
         optimize="true"
-        revision="25.0.0"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb3b219409ae1346b2ac885cfbbdeda8374106cf\classes.dex" />
+        revision="26.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\8.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\bef31abc565186a9972cf092ecda41ba\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
         optimize="true"
-        revision="25.0.0"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_aa16b3cf885393ef74ba8407c65bcf20627dd05b\classes.dex" />
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\build\intermediates\transforms\preDex\release\4.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\9a224d6cdb7fde31a89bb8f274847ea9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
         optimize="true"
-        revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bb1b42adb37be2494e196aee8df6271bfa6b1e15\classes.dex" />
+        revision="26.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\3.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\XCCD\.android\build-cache\222b9749e067f90759bb87c6a422eb0b17acb790\output\jars\libs\internal_impl-21.0.3.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\c18119d3a0f182a0e19e4639d15c7a7e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
         optimize="true"
-        revision="25.0.0"
+        revision="26.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-22.1.1.aar\d9aa690cf3bdc3cdf9c7a02f99cd446a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\9a224d6cdb7fde31a89bb8f274847ea9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\b60989b9d8cf2acf3f6aa58170e54586\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-appindexing-7.3.0.aar\d59bfb7732fbf79812d378aaef0a12e1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\b0db2e79087632035793a952df0eb753\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\SpinnerDemo\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\5f2160cb8f37fcec20118892b77ce83a\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\b0db2e79087632035793a952df0eb753\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-wearable-7.3.0.aar\515878500ebdde905ef7971ca5c312dd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\38588f0bd47bea16df73cdb6ae09494e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-fitness-7.3.0.aar\2c4de2e8974d8a26e9a752bd90b3097a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\29e2a8f5f33348237d5ed618c75df82e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\080d1165d06e4221ac88ddfc83296406\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-games-7.3.0.aar\4f8fbc032947e40dd294825593558cac\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="13"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MultiSimple\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-safetynet-7.3.0.aar\489ad27e423f6ec35b24b5d11459af2e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\43bb19db45aac2c750e9ccb5e6139551\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\f606d54805531c970f428af689d27d6a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\libs\ksoap2-android-assembly-2.5.2-jar-with-dependencies.jar"
+        jumboMode="false"
+        min-sdk-version="11"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb2e72c460a94479443d97240ec93e51022215e7">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_d3dc9247f5f039decdddb585611ab8d8370bee3d\classes.dex" />
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.0.aar\aa696a6f51cbe7759f877de724d66cfe\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MapApiDemo\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\f606d54805531c970f428af689d27d6a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-maps-7.3.0.aar\ae35fb822a0f0d52900cdb9df429496e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\07abeb0bab4278e7ccfbe130d7fef286\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-identity-7.3.0.aar\35db0adffe748fa2f46435fc778ff63f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\07abeb0bab4278e7ccfbe130d7fef286\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\e75c3a32aef243fab1b8bb9d9621ae03\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\SpinnerDemo\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\a3e90b6244c8f9db2d395277cfc87006\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PopupwindowDemo\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\3050a617cfe7689dacccec8b689b5b63\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\8e31fa5f5d7370452834bab91bf06c08\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MapApiDemo\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\38588f0bd47bea16df73cdb6ae09494e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-nearby-7.3.0.aar\1f349b378b72e5731a1ce22f2d16da0e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-appstate-7.3.0.aar\c56ec6b2c75bd6b0de434fba09bbc0a0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\loginInterceptor\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="12"
+        optimize="true"
+        revision="26.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\android_usb\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-gcm-7.3.0.aar\6010cbe03f9c383c15c453c6190a0c9a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\63ac7f7b14d468fd1a0f33bf325783dc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\8331ee9b7524f47ab6fede14cafac3ce\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-analytics-7.3.0.aar\15178a0a236fc3958feba18dc853a747\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\63ac7f7b14d468fd1a0f33bf325783dc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\fefbbe325d439f1783c1f489d81a8252\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\9d1acd1782820efab81393d28522c7ce\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\d769e608f2d48befa122eb21856cf03e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\bd7e797f444a62e46df013c3c4ccebe3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\b0db2e79087632035793a952df0eb753\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\501ddceaea8db3e27e91400182635d3e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MapApiDemo\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\9d1acd1782820efab81393d28522c7ce\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="11"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\4807b8e9c05a81eb74f39f77b6db561d\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MapApiDemo\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-location-7.3.0.aar\bd82cae4281cea766654c0d1142a53e4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.0.aar\a38b758e6f333eb822c4b0d10024c6ea\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MapApiDemo\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\307b067dcfcd54259e23ea0d01d50b9d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PopupwindowDemo\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MultiSimple\libs\pl2303multilib.jar"
+        jumboMode="false"
+        min-sdk-version="13"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c64da52399966ad8f1201efe5de024b03fe5f952">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MultiSimple\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\d254db1eb018626f00ab63f70624a032\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PopupwindowDemo\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\5f2160cb8f37fcec20118892b77ce83a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\47b0c193b12d02d2ed98f6c7137a7cb6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-plus-7.3.0.aar\559456d704704f798c99d50aa838ea64\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\cb4916b101df4cc168b2e76519ee142a\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PopupwindowDemo\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\cb4916b101df4cc168b2e76519ee142a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PopupwindowDemo\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.0.aar\06770b83aab447c3f879e912a4403c25\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MapApiDemo\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\c0dddde4db71fd14ecf6755ad4a925f2\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PopupWindowDialog\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\e5cfde4e965bd52af578afe129e4fc2f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PopupWindowDialog\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-drive-7.3.0.aar\042534184b8f2d782590016cf7070483\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\47b0c193b12d02d2ed98f6c7137a7cb6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-22.1.1.aar\b89e15e8521c0f86629488071a4c09a0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\9d1acd1782820efab81393d28522c7ce\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-base-10.2.0.aar\2184d714b9fd5f7128bb6fb56256587f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MapApiDemo\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\f606d54805531c970f428af689d27d6a\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\c4875a5cb7b65c41a6a6f2c15d1fb8e6\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidSpace\PL2303HXDSimpleTest\litepal\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a172e4a177957c51a203e45a538491f3021c5a2e">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\sample\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\da13a53948ab194bfd658903391f44b4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PopupwindowDemo\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-base-7.3.0.aar\5561637ea6944848597d9d4b6ab83eb3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\340f00ecc78c2441eda1039925acf521\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MapApiDemo\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-ads-7.3.0.aar\421c418726818b727b240f308ac82140\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-cast-7.3.0.aar\67f7d2fccb642573738675535152a59f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MapApiDemo\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\4c6ef1ca0455b20352ba5daf3e3b6d47\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c8846c3d379c02c8142333386b2d7e64\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\9d1acd1782820efab81393d28522c7ce\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="11"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c8846c3d379c02c8142333386b2d7e64\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\1d96ac8241c2df69acb71460a8a425e2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\9f93765075f102634f52ed8acfce2a08\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\c0dddde4db71fd14ecf6755ad4a925f2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PopupWindowDialog\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-panorama-7.3.0.aar\5f3ab688500e0fbb87a05abe36fdf95c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-22.1.1.aar\b89e15e8521c0f86629488071a4c09a0\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\29e2a8f5f33348237d5ed618c75df82e\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\2bfe2c5f0d844c35a86bc45b089ae009\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\f606d54805531c970f428af689d27d6a\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\f2a90f2ffe685f0fdd72382c45cbab9e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\testmap\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\4c6ef1ca0455b20352ba5daf3e3b6d47\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\e75c3a32aef243fab1b8bb9d9621ae03\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\SpinnerDemo\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-24.0.0.aar\4807b8e9c05a81eb74f39f77b6db561d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\MapApiDemo\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\play-services-wallet-7.3.0.aar\afac2124cd72862dd713b9a4856e7bd3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\Map\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\2294969b256abc0781b76e593266f9d2\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\2294969b256abc0781b76e593266f9d2\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\libs\core-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="11"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\07abeb0bab4278e7ccfbe130d7fef286\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\2294969b256abc0781b76e593266f9d2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_library\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0e380c1a28631e507af6eda6fc7da01366a84204">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\d769e608f2d48befa122eb21856cf03e\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\07abeb0bab4278e7ccfbe130d7fef286\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\c4875a5cb7b65c41a6a6f2c15d1fb8e6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\listviewchoose\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\47b0c193b12d02d2ed98f6c7137a7cb6\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\0deb91314359add9538e042b1bfbc8ab\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="11"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidSpace\PL2303HXDSimpleTest\app\libs\pl2303driver.jar"
+        jumboMode="false"
+        min-sdk-version="13"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3ba27649469c1d71e1a54c0fd66a0d94856df555">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\2294969b256abc0781b76e593266f9d2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\PermissionManager-master\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\47b0c193b12d02d2ed98f6c7137a7cb6\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Android\AndroidSpace\PL2303HXDSimpleTest\fragment\build\intermediates\transforms\preDex\release\14.jar" />
     </item>
 
 </items>

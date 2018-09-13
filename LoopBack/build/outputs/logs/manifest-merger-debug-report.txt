@@ -1,6 +1,21 @@
 -- Merging decision tree log ---
 manifest
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\bd7e797f444a62e46df013c3c4ccebe3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\43bb19db45aac2c750e9ccb5e6139551\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\8331ee9b7524f47ab6fede14cafac3ce\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\bef31abc565186a9972cf092ecda41ba\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\0deb91314359add9538e042b1bfbc8ab\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\fefbbe325d439f1783c1f489d81a8252\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\1d96ac8241c2df69acb71460a8a425e2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\080d1165d06e4221ac88ddfc83296406\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\da13a53948ab194bfd658903391f44b4\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:2:1-34:12
 	package
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:3:7-33
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
@@ -9,27 +24,41 @@ ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\Android
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:5:7-32
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:4:7-30
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:6:5-44
-MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\XCCD\.android\build-cache\55e179c9d6e100cd7c1f5465c7b824ea4722b9d0\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\XCCD\.android\build-cache\0886532fe388d39a8972e6248ba9cdf6dc57f5e1\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\XCCD\.android\build-cache\9ee8dd911cdaabc3334f40e05b447fba876f390b\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\XCCD\.android\build-cache\af80f0a5b35440d91721806b01128927e59c5694\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\XCCD\.android\build-cache\1f62a9f6902789e5f9ecb067a17b267695904647\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\XCCD\.android\build-cache\d61208153fd839e881f0f737628a4157c9658d12\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\XCCD\.android\build-cache\0dc01d66b068d07db1eae892a7643050c91b4af3\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\XCCD\.android\build-cache\ab9a5cce889960617c2925949ee37cf47d1acb31\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\XCCD\.android\build-cache\aca4a3497e76b2cfa674c905b1e6927f893e9753\output\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:6:5-44
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:appcompat-v7:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\bd7e797f444a62e46df013c3c4ccebe3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\bd7e797f444a62e46df013c3c4ccebe3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\43bb19db45aac2c750e9ccb5e6139551\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\43bb19db45aac2c750e9ccb5e6139551\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\8331ee9b7524f47ab6fede14cafac3ce\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\8331ee9b7524f47ab6fede14cafac3ce\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\bef31abc565186a9972cf092ecda41ba\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\bef31abc565186a9972cf092ecda41ba\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\0deb91314359add9538e042b1bfbc8ab\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\0deb91314359add9538e042b1bfbc8ab\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\fefbbe325d439f1783c1f489d81a8252\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\fefbbe325d439f1783c1f489d81a8252\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\1d96ac8241c2df69acb71460a8a425e2\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\1d96ac8241c2df69acb71460a8a425e2\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\080d1165d06e4221ac88ddfc83296406\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\080d1165d06e4221ac88ddfc83296406\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\da13a53948ab194bfd658903391f44b4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\da13a53948ab194bfd658903391f44b4\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:6:5-44
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:6:5-44
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\XCCD\.android\build-cache\55e179c9d6e100cd7c1f5465c7b824ea4722b9d0\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\bd7e797f444a62e46df013c3c4ccebe3\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:6:5-44
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:6:15-41
@@ -41,15 +70,24 @@ ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\Android
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:8:19-64
 application
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:10:5-33:19
-MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\XCCD\.android\build-cache\55e179c9d6e100cd7c1f5465c7b824ea4722b9d0\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\XCCD\.android\build-cache\0886532fe388d39a8972e6248ba9cdf6dc57f5e1\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\XCCD\.android\build-cache\9ee8dd911cdaabc3334f40e05b447fba876f390b\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\XCCD\.android\build-cache\af80f0a5b35440d91721806b01128927e59c5694\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\XCCD\.android\build-cache\1f62a9f6902789e5f9ecb067a17b267695904647\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\XCCD\.android\build-cache\d61208153fd839e881f0f737628a4157c9658d12\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\XCCD\.android\build-cache\0dc01d66b068d07db1eae892a7643050c91b4af3\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\XCCD\.android\build-cache\ab9a5cce889960617c2925949ee37cf47d1acb31\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\XCCD\.android\build-cache\aca4a3497e76b2cfa674c905b1e6927f893e9753\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\bd7e797f444a62e46df013c3c4ccebe3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\bd7e797f444a62e46df013c3c4ccebe3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\43bb19db45aac2c750e9ccb5e6139551\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\43bb19db45aac2c750e9ccb5e6139551\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\8331ee9b7524f47ab6fede14cafac3ce\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\8331ee9b7524f47ab6fede14cafac3ce\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\bef31abc565186a9972cf092ecda41ba\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\bef31abc565186a9972cf092ecda41ba\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\0deb91314359add9538e042b1bfbc8ab\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\0deb91314359add9538e042b1bfbc8ab\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\fefbbe325d439f1783c1f489d81a8252\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\fefbbe325d439f1783c1f489d81a8252\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\1d96ac8241c2df69acb71460a8a425e2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\1d96ac8241c2df69acb71460a8a425e2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\080d1165d06e4221ac88ddfc83296406\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\080d1165d06e4221ac88ddfc83296406\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\da13a53948ab194bfd658903391f44b4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\da13a53948ab194bfd658903391f44b4\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\LoopBack\src\main\AndroidManifest.xml:10:48-80
 	android:icon
