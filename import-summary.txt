@@ -20,17 +20,17 @@ the .jar file in your project was of an older version than the
 dependency we picked, which could render the project not compileable.
 You can disable the jar replacement in the import wizard and try again:
 
-android-support-v4.jar => com.android.support:support-v4:21.+
+android-support-v4.jar => com.android.support:support-v4:18.+
 
 Moved Files:
 ------------
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => loginInterceptor\src\main\AndroidManifest.xml
-* assets\ => loginInterceptor\src\main\assets
-* res\ => loginInterceptor\src\main\res\
-* src\ => loginInterceptor\src\main\java\
+* AndroidManifest.xml => voice_rcd\src\main\AndroidManifest.xml
+* assets\ => voice_rcd\src\main\assets
+* res\ => voice_rcd\src\main\res\
+* src\ => voice_rcd\src\main\java\
 
 Missing Android Support Repository:
 -----------------------------------

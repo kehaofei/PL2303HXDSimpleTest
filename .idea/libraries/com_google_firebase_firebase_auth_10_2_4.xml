@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.firebase:firebase-auth-10.2.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.4.aar/0d5135a46fb126991a509e114207690e/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../gradle/caches/transforms-1/files-1.1/firebase-auth-10.2.4.aar/0d5135a46fb126991a509e114207690e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_aars__:D.\Android\AndroidSpace\PL2303HXDSimpleTest\app\libs\pl2303driver.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/pl2303driver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

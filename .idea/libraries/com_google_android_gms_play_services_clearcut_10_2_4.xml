@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.android.gms:play-services-clearcut-10.2.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.4.aar/04fa4cd94b6e55570ed086880545e313/res" />
+      <root url="jar://$PROJECT_DIR$/../../gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.4.aar/04fa4cd94b6e55570ed086880545e313/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

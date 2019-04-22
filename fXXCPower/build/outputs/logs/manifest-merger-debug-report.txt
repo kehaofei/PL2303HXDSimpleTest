@@ -1,6 +1,13 @@
 -- Merging decision tree log ---
 manifest
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:1:1-42:12
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:14:4-17:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:1:1-42:12
 	package
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:2:5-36
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml
@@ -9,15 +16,20 @@ ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\Androi
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:4:5-30
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:3:5-28
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:1:11-69
 uses-sdk
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:support-v4:20.0.0] C:\Users\XCCD\.android\build-cache\a1b562d730f146a83f21766dc0696ffc834a6192\output\AndroidManifest.xml:16:5-42
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:15:5-42
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:6:5-8:41
 	android:targetSdkVersion
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:8:9-38
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml
@@ -40,13 +52,14 @@ ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\Androi
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:12:22-66
 application
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:14:5-40:19
-MERGED from [com.android.support:support-v4:20.0.0] C:\Users\XCCD\.android\build-cache\a1b562d730f146a83f21766dc0696ffc834a6192\output\AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:16:5-19
 	android:label
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:17:9-41
-	android:allowBackup
-		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:15:9-35
 	android:icon
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:15:9-35
 	android:theme
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\fXXCPower\src\main\AndroidManifest.xml:18:9-40
 activity#com.fxxc.ui.WelcomeActivity

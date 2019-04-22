@@ -3,7 +3,7 @@
     package="com.UARTLoopback.test" >
 
     <uses-sdk
-        android:minSdkVersion="19"
+        android:minSdkVersion="21"
         android:targetSdkVersion="25" />
 
     <instrumentation
@@ -13,7 +13,7 @@
         android:label="Tests for com.UARTLoopback"
         android:targetPackage="com.UARTLoopback" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

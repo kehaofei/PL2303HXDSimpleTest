@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\android_usb\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\android_usb\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "3,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "104,395",
+                        "endLines": "9,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "390,550"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\AndroidSpace\\PL2303HXDSimpleTest\\android_usb\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "48",
+                        "endOffsets": "63"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

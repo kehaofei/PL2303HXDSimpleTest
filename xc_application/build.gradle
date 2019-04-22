@@ -2,11 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.2"
-
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "com.xiaocheng.xc_application"
-        minSdkVersion 19
+        minSdkVersion 23
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
@@ -20,6 +19,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    productFlavors {
+    }
 }
 
 dependencies {
@@ -27,6 +28,7 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
+    //noinspection GradleCompatible
     compile 'com.android.support:appcompat-v7:25.3.1'
     testCompile 'junit:junit:4.12'
     compile 'com.google.android.gms:play-services:7.3.0'

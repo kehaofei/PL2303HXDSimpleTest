@@ -1,24 +1,24 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 13
-    buildToolsVersion "25.0.2"
-
+    compileSdkVersion 25
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "com.prolific.pluartmultisimpletest"
-        minSdkVersion 13
-        targetSdkVersion 15
+        minSdkVersion 21
+        targetSdkVersion 23
     }
-
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    productFlavors {
+    }
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:18.0.0'
+    compile 'com.android.support:support-v4:25.4.0'
     compile files('libs/pl2303multilib.jar')
 }

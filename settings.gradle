@@ -1,4 +1,4 @@
-include ':app', ':LoopBack', ':bluetoothDemo', ':fragment', ':MultiSimple', ':xc_application', ':testmap', 'SpinnerDemo', ':listviewchoose', ':PermissionManager-master', ':PopupwindowDemo', ':PopupWindowDialog', ':Map', ':MapApiDemo', ':sample', ':litepal'
+include ':app', ':LoopBack', ':bluetoothDemo', ':fragment', ':MultiSimple', ':xc_application', ':testmap', 'SpinnerDemo', ':listviewchoose', ':PermissionManager-master', ':PopupwindowDemo', ':PopupWindowDialog', ':Map', ':MapApiDemo', ':sample', ':litepal', ':Library', ':CustomDatePicker'
 include ':slidingmenu_library'
 include ':slidingmenu_demo'
 include ':iO_CTRL'

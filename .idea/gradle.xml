@@ -3,11 +3,14 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Program Files\Android\Android Studio\gradle\gradle-4.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CustomDatePicker" />
+            <option value="$PROJECT_DIR$/Library" />
             <option value="$PROJECT_DIR$/LoopBack" />
             <option value="$PROJECT_DIR$/Map" />
             <option value="$PROJECT_DIR$/MapApiDemo" />

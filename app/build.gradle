@@ -1,24 +1,26 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 13
-    buildToolsVersion "25.0.2"
-
+    compileSdkVersion 23
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "com.prolific.pl2303hxdsimpletest"
-        minSdkVersion 13
-        targetSdkVersion 15
+        minSdkVersion 23
+        targetSdkVersion 23
+        vectorDrawables.useSupportLibrary = true
     }
-
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    productFlavors {
+    }
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:18.0.0'
+    implementation 'com.android.support:support-vector-drawable:23.4.0'
+    compile 'com.android.support:support-v4:23.4.0'
     compile files('libs/pl2303driver.jar')
 }

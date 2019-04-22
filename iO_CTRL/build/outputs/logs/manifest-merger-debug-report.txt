@@ -1,6 +1,18 @@
 -- Merging decision tree log ---
 manifest
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:support-v4:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\b657e03c235e0e468486da7ee1503ff2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\68a9acec6695c67fb5252de577c38bec\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\57d43f47a8fb02fcb9a93fdc69597a0c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\78edff2b6c262c42d1855c033b9987bb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\75accd991257ac55c55236a6bcb769da\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1db45b26e9cbc5d38f4085b900e73b32\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml
@@ -9,15 +21,32 @@ ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidM
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:20.0.0] C:\Users\XCCD\.android\build-cache\a1b562d730f146a83f21766dc0696ffc834a6192\output\AndroidManifest.xml:16:5-42
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\b657e03c235e0e468486da7ee1503ff2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\b657e03c235e0e468486da7ee1503ff2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\68a9acec6695c67fb5252de577c38bec\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\68a9acec6695c67fb5252de577c38bec\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\57d43f47a8fb02fcb9a93fdc69597a0c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\57d43f47a8fb02fcb9a93fdc69597a0c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\78edff2b6c262c42d1855c033b9987bb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\78edff2b6c262c42d1855c033b9987bb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\75accd991257ac55c55236a6bcb769da\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\75accd991257ac55c55236a6bcb769da\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1db45b26e9cbc5d38f4085b900e73b32\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1db45b26e9cbc5d38f4085b900e73b32\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\b657e03c235e0e468486da7ee1503ff2\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml
@@ -42,13 +71,24 @@ ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidM
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:14:22-71
 application
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:15:5-31:19
-MERGED from [com.android.support:support-v4:20.0.0] C:\Users\XCCD\.android\build-cache\a1b562d730f146a83f21766dc0696ffc834a6192\output\AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:support-v4:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\b657e03c235e0e468486da7ee1503ff2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\b657e03c235e0e468486da7ee1503ff2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\68a9acec6695c67fb5252de577c38bec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\68a9acec6695c67fb5252de577c38bec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\57d43f47a8fb02fcb9a93fdc69597a0c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\57d43f47a8fb02fcb9a93fdc69597a0c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\78edff2b6c262c42d1855c033b9987bb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\78edff2b6c262c42d1855c033b9987bb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\75accd991257ac55c55236a6bcb769da\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\75accd991257ac55c55236a6bcb769da\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1db45b26e9cbc5d38f4085b900e73b32\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1db45b26e9cbc5d38f4085b900e73b32\AndroidManifest.xml:25:5-29:19
 	android:label
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:18:9-41
-	android:allowBackup
-		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:16:9-35
 	android:icon
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:16:9-35
 	android:theme
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:19:9-40
 activity#com.example.io_ctrl.DeviceScanActivity
@@ -77,3 +117,19 @@ ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidM
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:30:53-75
 	android:name
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\iO_CTRL\src\main\AndroidManifest.xml:30:18-52
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\b657e03c235e0e468486da7ee1503ff2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\68a9acec6695c67fb5252de577c38bec\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\68a9acec6695c67fb5252de577c38bec\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\57d43f47a8fb02fcb9a93fdc69597a0c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\57d43f47a8fb02fcb9a93fdc69597a0c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\78edff2b6c262c42d1855c033b9987bb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\78edff2b6c262c42d1855c033b9987bb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\75accd991257ac55c55236a6bcb769da\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\75accd991257ac55c55236a6bcb769da\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1db45b26e9cbc5d38f4085b900e73b32\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\1db45b26e9cbc5d38f4085b900e73b32\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\b657e03c235e0e468486da7ee1503ff2\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:25.4.0] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\b657e03c235e0e468486da7ee1503ff2\AndroidManifest.xml:27:13-51

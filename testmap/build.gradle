@@ -2,11 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.2"
-
+    buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "com.xiaocheng.testmap"
-        minSdkVersion 19
+        minSdkVersion 21
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
@@ -20,6 +19,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    productFlavors {
+    }
 }
 
 dependencies {
@@ -30,5 +31,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.google.android.gms:play-services-maps:7.3.0'
     compile 'com.google.android.gms:play-services:7.3.0'
-    compile 'com.android.support:appcompat-v7:22.1.1'
+    compile 'com.android.support:appcompat-v7:25.4.0'
 }

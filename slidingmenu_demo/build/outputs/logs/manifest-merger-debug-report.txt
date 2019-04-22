@@ -1,6 +1,14 @@
 -- Merging decision tree log ---
 manifest
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [:slidingmenu_library] D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:14:4-17:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml
@@ -9,15 +17,22 @@ ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [PL2303HXDSimpleTest:slidingmenu_library:unspecified] D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [:slidingmenu_library] D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:slidingmenu_library] D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:15:5-42
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml
@@ -28,12 +43,14 @@ MERGED from [PL2303HXDSimpleTest:slidingmenu_library:unspecified] D:\Android\And
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml
 application
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:11:5-26:19
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:16:5-19
 	android:label
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:14:9-41
-	android:allowBackup
-		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:12:9-35
 	android:icon
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:12:9-35
 	android:theme
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\slidingmenu_demo\src\main\AndroidManifest.xml:15:9-40
 activity#com.infzm.slidingmenu.demo.MainActivity

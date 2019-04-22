@@ -1,6 +1,13 @@
 -- Merging decision tree log ---
 manifest
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:14:4-17:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:3:5-29
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml
@@ -9,14 +16,20 @@ ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:15:5-42
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml
@@ -39,12 +52,14 @@ ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:12:22-64
 application
 ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:14:5-28:19
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] D:\Android\gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\a1012914f9194f9d509618549cf6a6e2\AndroidManifest.xml:16:5-19
 	android:label
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:17:9-41
-	android:allowBackup
-		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:15:9-35
 	android:icon
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:15:9-35
 	android:theme
 		ADDED from D:\Android\AndroidSpace\PL2303HXDSimpleTest\asyncUploadDemo\src\main\AndroidManifest.xml:18:9-40
 activity#com.zmb.updemo.MainActivity
